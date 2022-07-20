@@ -1,4 +1,4 @@
-let h=1280;
+let h=960;
 let w=720;
 
 function setup() {
