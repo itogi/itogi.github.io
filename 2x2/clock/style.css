@@ -6,3 +6,9 @@ html, body {
 canvas {
   display: block;
 }
+
+@font-face {
+	font-family: 'COOPBL'; 
+	src: local('COOPBL'),
+		url(/COOPBL.ttf); 
+}
