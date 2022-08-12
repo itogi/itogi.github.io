@@ -8,7 +8,11 @@ canvas {
 }
 
 @font-face {
-	font-family: 'COOPBL'; 
+	font-family: "COOPBL"; 
 	src: local('COOPBL'),
 		url(/COOPBL.ttf); 
 }
+p.customfont { 
+    font-family: "COOPBL", Verdana, Tahoma;
+}
+</style>
