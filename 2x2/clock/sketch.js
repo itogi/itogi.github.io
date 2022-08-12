@@ -4,7 +4,7 @@ var w=720; //Высота экрана
 function setup() {
   canvas = createCanvas(h, w); //Создание экрана с заданной шириной и высотой
   angleMode(DEGREES);
-  clockNum = loadFont('/COOPBL.otf');
+  clockNum = loadFont('/CooperBlackStd.ttf');
 }
 
 function draw() {
